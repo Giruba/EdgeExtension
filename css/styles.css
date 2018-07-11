@@ -1,0 +1,19 @@
+/* main styles of the extension popup*/
+* {
+    font-family: 'Calibri';
+}
+
+h1 {
+    font-weight: 600;
+	color: white;
+	background-color: black;
+    font-size: .9em;
+}
+
+p {
+    font-weight: 500;
+    font-size: .8em;
+	color:white;
+	background-color:darkblue;
+    margin-bottom: 10px;  
+}
